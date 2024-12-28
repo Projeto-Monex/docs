@@ -1,4 +1,14 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Documentação do Projeto Monex  
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+Para acessar a documentação vá na aba Wiki do repositório.  
+[Link para a Wiki](TODO)  
+
+Estamos utilizando este repositório para documentar o projeto Monex por que o github cobra por wiki em repositórios privados.  
+
+Aqui você encontrará informações sobre o projeto, como:
+
+- Diagramas  
+- Documento de Requisitos  
+- Documentos relacionados à arquitetura  
+- Documentos relacionados à implementação, bibliotecas, frameworks, etc.  
+- Workflows do projeto  
